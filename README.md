@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshay-0987
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and good in python
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any python courses
 - 📫 How to reach me ...
 
 <!---
